@@ -67,7 +67,7 @@ An AI agent now sits inside the restaurant's chat interface and handles the full
 
 ## About
 
-Built by **Charles Emmanuel** — AI & Automation Systems Engineer.
+Built by **Charles Emmanuel** — AI & Automation Systems Engineer.   
 Lagos, Nigeria | [LinkedIn](https://linkedin.com/in/charles-emmanuel-automation) | charlestaylurr@gmail.com
 
 I build systems that remove repetitive manual work so teams can focus on what actually matters. If your business is losing time or money to broken processes, reach out.
