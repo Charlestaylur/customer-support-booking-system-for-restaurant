@@ -70,5 +70,4 @@ An AI agent now sits inside the restaurant's chat interface and handles the full
 Built by **Charles Emmanuel** — AI & Automation Systems Engineer.
 Lagos, Nigeria | [LinkedIn](https://linkedin.com/in/charles-emmanuel-automation) | charlestaylurr@gmail.com
 
-I build systems that remove repetitive manual work so teams can focus on what actually matters. If your business is losing time or money to broken processes, reach out.<img width="849" height="399" alt="Github Eves" src="https://github.com/user-attachments/assets/40ce01b2-7e36-4a95-8b21-deb904640b50" />
-<img width="849" height="399" alt="Github Eves" src="https://github.com/user-attachments/assets/957c104c-337d-4057-94a0-52e59945189b" />
+I build systems that remove repetitive manual work so teams can focus on what actually matters. If your business is losing time or money to broken processes, reach out.
