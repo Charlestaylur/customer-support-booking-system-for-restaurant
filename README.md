@@ -1,6 +1,6 @@
 # Restaurant AI Customer Support and Booking System
 
-> AI agent trained on a restaurant knowledge base that handles customer inquiries, manages the full reservation lifecycle, and escalates to the team when needed using n8n, OpenAI, and Airtable.
+> AI agent trained on a restaurant knowledge base that handles customer inquiries, manages the full reservation lifecycle, and escalates to the team when needed using n8n, OpenAI, PostgreSQL and Airtable.
 
 **Industry:** Food and Beverage / Restaurant Operations
 **Built for:** Restaurants that want to automate customer support and reservation management without losing the option for human follow-up.
